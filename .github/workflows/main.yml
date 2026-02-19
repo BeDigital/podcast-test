@@ -16,7 +16,7 @@ jobs:
         pip install pyyaml
     - name: Run Feed Generator
       run: python feed.py
-    - name: Push Repo
+    - name: Push Repos
       run: |
         git config user.name github-actions
         git config user.email brian.uckert@be-digital.biz
