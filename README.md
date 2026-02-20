@@ -1,4 +1,6 @@
-# The Future in Technology 101
+---
+title: The Future in Tech
+---
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
