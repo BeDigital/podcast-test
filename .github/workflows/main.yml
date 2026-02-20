@@ -21,6 +21,7 @@ jobs:
         git config user.name github-actions
         git config user.email brian.uckert@be-digital.biz
         git add .
+        git diff --cached --quiet || git commit -m "Modified Feed"
         git commit -m "Modified Feed" || true
         git push
         
