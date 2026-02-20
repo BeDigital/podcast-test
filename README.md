@@ -1,5 +1,5 @@
 ---
-title: The Future in Technology
+title: The Future in Technology today
 ---
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
