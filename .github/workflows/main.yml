@@ -7,7 +7,7 @@ jobs:
     - name: Checkout Repo
       uses: actions/checkout@v3
     - name: Run Feed Generator
-      uses: bedigital/podcast-generator@main
+      uses: BeDigital/podcast-generator@main
       
 
         
